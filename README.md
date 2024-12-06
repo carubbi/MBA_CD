@@ -4,4 +4,5 @@ Estaremos juntos em todo o processo. Conte comigo e um ótimo curso.
 
 # Minicurrículo
 **Olá, sou o professor Carubbi!**
+
 Doutorando e Mestre em Informática Aplicada com ênfase em Inteligência Artificial e Ciência de Dados no Programa de Pós-graduação em Informática Aplicada (PPGIA) da UNIFOR. Graduado em Engenharia Civil pela UFC e em Arquitetura e Urbanismo pela UNIFOR. Atualmente, sou professor dos cursos de graduação em Ciência da Computação e Engenharias, assim como na pós-graduação nos MBAs de Ciência de Dados e Gestão Analítica com BI e Big Data na UNIFOR. Atuo também em diversos projetos nacionais e internacionais do Laboratório de Ciência de Dados e Inteligência Artificial (LCDIA) da Unifor. Fui professor da graduação dos cursos de Arquitetura e Tecnólogo em Construção de Edifícios da FANOR.
